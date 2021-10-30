@@ -1,0 +1,20 @@
+{
+  "name": "names-family-ram",
+  "version": "1.0.0",
+  "description": "Messaages ramdon family",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "author": "Marvin Berrio <marvinccp@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "names-family-ram": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
